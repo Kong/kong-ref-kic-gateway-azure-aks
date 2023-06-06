@@ -11,3 +11,10 @@ This branch assumes the following commands and tools are installed:
 6. helm
 7. python3
 8. $KONG_LICENSE needs to be set to the local path of your kong license json file -->
+
+## Select your Deployment Method
+1. [Pulumi Python]()
+2. [Pulumi Typescript]()
+3. [ARM Template]()
+4. [Terraform]()
+5. [BASH]()
