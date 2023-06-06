@@ -1,0 +1,6 @@
+name: kong-ref-kic-gateway-azure-aks
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Kong reference automation for gateway and kic in aks.
